@@ -1,0 +1,91 @@
+.derecha {
+  height: 400px;
+  background-color: rgb(244, 233, 236)
+}
+.derecha h2{
+  color: #ba1d26;
+  font-size: 3.4em;
+  font-weight: 700;
+  margin-left: 15%;
+}
+.derecha p {
+  color: #ba1d26;
+  font-size: 2.4em;
+  width: 20%;
+  font-weight: lighter;
+  margin-left: 15%;
+  line-height: 1.7em;
+}
+.derecha img{
+width: 17%;
+height: auto;
+float: right;
+margin-top: -280px;
+margin-right: 250px;
+}
+.skin1 {
+  background-color: #E8EEF1;
+  height: 550px;
+}
+.skincontenido {
+  width: 75%;
+  height: 460px;
+  margin-top: 40px;
+  margin-left: 100px;
+  background-color: #fff;
+}
+.skincontenido img{
+  width: 20%;
+  height: auto;
+  z-index: 1000;
+  position: absolute;
+  margin-top: -250px ;
+  margin-left: 430px;
+}
+.skincontenido h2{
+  font-size: 1.3em;
+  width: 110%;
+  float: left;
+  margin-left: 140px;
+  color:#db2424;
+}
+.skincontenido h3{
+  font-size: 1.3em;
+  padding-top: 25px;
+  margin-left: 140px;
+}
+.skincontenido p{
+  margin-left: 140px;
+}
+.submenuskin {
+  color:#ddd;
+  margin-top: 50px;
+  width: 68%;
+  font-weight: 700;
+  font-size: 1.1em;
+  line-height: 2.3em;
+  text-align: right;
+}
+.submenuskin a {
+  color:#000;
+}
+.submenuskin li {
+  display: block;
+}
+.submenuskin li ul {
+  display: none;
+}
+.submenuskin ul li a{
+  color:#000;
+  display: block;
+  font-size: 1em;
+  width: 100%;
+}
+
+.submenuskin ul li a:hover{
+  background-color:#87969c ;
+  color: #fff;
+}
+.submenuskin li:hover >ul {
+  display: block;
+}

@@ -1,0 +1,60 @@
+.contenedortodos {
+  width: 90%;
+  height: 1200px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+.imagenes {
+  width: 90%;
+  height: 280px;
+  display: block;
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 5%;
+  background-color: #E8EEF1;
+}
+.imagenes h1 {
+  width: 70%;
+  font-size: 1.2em;
+  float: right;
+  text-align: right;
+  margin-right: 20px;
+}
+.imagenes h2 {
+    float: right;
+    font-size: 1.1em;
+    margin-top: -60px;
+    padding-left: 80px;
+    width: 50%
+}
+.imagenes p {
+  float: right;
+  line-height: 1.8em;
+  width: 53%;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.imagenes img{
+  width: 20%;
+  height: auto;
+  z-index: 1500px;
+  position: absolute;
+  margin-left: -160px;
+  margin-top: 35px;
+}
+.todosb{
+  width: 170px;
+  height: 50px;
+  margin-top: 80px;
+  margin-left: 120px;
+  background-color:#d10e0e
+}
+.todosb a{
+padding-top: 10px;
+display: flex;
+justify-content: center;
+font-size: 1.4em;
+color:#fff;
+}
